@@ -7,7 +7,7 @@
 ### Sobre Mim
 - 🎯 Estou aprimorando minhas habilidades com foco atual em **Angular** no frontend e **Java** no backend.
 - 📚 Sempre estudando e evoluindo em tecnologias como **Spring Boot** e **DevOps**.
-- 💡 Entusiasta de soluções em Ciência de dados e cibersegurança.
+- 💡 Entusiasta de soluções em ciência de dados e cibersegurança.
 - 📞 **Contato:** (47)98496-1022
 ---
 
